@@ -18,13 +18,8 @@ Ola, me chamo Fabio Maceno Almeida, tenho 19 anos e resido em São Paulo. Atualm
     width="30px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/> 
+/>
 
----
-
-### **Repositorios**
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
