@@ -14,7 +14,6 @@ Ola, me chamo Fabio Maceno Almeida, tenho 19 anos e resido em São Paulo. Atualm
             alt="linkedin profile" 
             title="Meu perfil do Linkedin" 
     alt="Linkedin"
-    title="Linkedin" 
     width="30px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
